@@ -93,3 +93,20 @@ PIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvide
 1508404582356	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
 1508404582805	Marionette	INFO	New connections will no longer be accepted
 [Parent 9360] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1508470010609	geckodriver	INFO	geckodriver 0.18.0
+1508470010651	geckodriver	INFO	Listening on 127.0.0.1:1193
+1508470011155	geckodriver::marionette	INFO	Starting browser d:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1508470013141	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1508470014943	Marionette	INFO	Enabled via --marionette
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1508470023327	Marionette	INFO	Listening on port 1200
+1508470023682	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508470023796	Marionette	DEBUG	Register listener.js for window 6442450945
+1508470023883	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1508470024704	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1508470024704	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1508470024715	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1508470024725	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+1508470025877	Marionette	INFO	New connections will no longer be accepted
