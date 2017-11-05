@@ -1898,3 +1898,152 @@ JavaScript error: jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/comp
 1509786111030	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:4588/"
 1509786116131	Marionette	INFO	New connections will no longer be accepted
 [Parent 12316] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509845001030	geckodriver	INFO	geckodriver 0.18.0
+1509845001083	geckodriver	INFO	Listening on 127.0.0.1:9357
+1509845001575	geckodriver::marionette	INFO	Starting browser d:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1509845003083	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509845004121	Marionette	INFO	Enabled via --marionette
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[Child 1152] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1152] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509845007984	Marionette	INFO	Listening on port 9361
+1509845008088	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509845008206	Marionette	DEBUG	Register listener.js for window 6442450945
+1509845008290	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509845008355	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509845008356	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509845008367	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:9356/"
+1509845009639	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:9356/"
+1509845012898	Marionette	INFO	New connections will no longer be accepted
+[Parent 10492] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509845013361	geckodriver	INFO	geckodriver 0.18.0
+1509845013392	geckodriver	INFO	Listening on 127.0.0.1:9428
+1509845013920	geckodriver::marionette	INFO	Starting browser d:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1509845014372	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509845015586	Marionette	INFO	Enabled via --marionette
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[Child 5112] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5112] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1509845020549	Marionette	INFO	Listening on port 9432
+1509845020927	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509845021006	Marionette	DEBUG	Register listener.js for window 6442450945
+1509845021061	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509845021085	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509845021085	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509845021097	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:9356/"
+1509845022133	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:9356/"
+1509845023882	Marionette	INFO	New connections will no longer be accepted
+1509845024293	geckodriver	INFO	geckodriver 0.18.0
+1509845024312	geckodriver	INFO	Listening on 127.0.0.1:9485
+1509845024895	geckodriver::marionette	INFO	Starting browser d:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1509845025350	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509845026445	Marionette	INFO	Enabled via --marionette
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[Child 956] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 956] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1509845031719	Marionette	INFO	Listening on port 9489
+1509845031911	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509845031982	Marionette	DEBUG	Register listener.js for window 4294967297
+1509845032036	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509845032061	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509845032062	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509845032071	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:9356/"
+1509845032662	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:9356/"
+1509845034957	Marionette	INFO	New connections will no longer be accepted
+1509845035334	geckodriver	INFO	geckodriver 0.18.0
+1509845035360	geckodriver	INFO	Listening on 127.0.0.1:9533
+1509845035875	geckodriver::marionette	INFO	Starting browser d:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1509845036370	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509845037430	Marionette	INFO	Enabled via --marionette
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[Child 7476] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7476] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1509845043049	Marionette	INFO	Listening on port 9537
+1509845043215	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509845043298	Marionette	DEBUG	Register listener.js for window 4294967297
+1509845043363	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509845043406	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509845043406	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509845043424	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:9356/"
+1509845043981	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:9356/"
+1509845046118	Marionette	INFO	New connections will no longer be accepted
+1509845253723	geckodriver	INFO	geckodriver 0.18.0
+1509845253744	geckodriver	INFO	Listening on 127.0.0.1:9597
+1509845254267	geckodriver::marionette	INFO	Starting browser d:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1509845254901	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509845256008	Marionette	INFO	Enabled via --marionette
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1509845259514	Marionette	INFO	Listening on port 9601
+1509845260082	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509845260175	Marionette	DEBUG	Register listener.js for window 4294967297
+1509845260238	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509845260335	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509845260336	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509845260350	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:9596/"
+1509845261018	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:9596/"
+1509845264512	Marionette	INFO	New connections will no longer be accepted
+1509845264897	geckodriver	INFO	geckodriver 0.18.0
+1509845264913	geckodriver	INFO	Listening on 127.0.0.1:9668
+1509845265456	geckodriver::marionette	INFO	Starting browser d:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1509845266028	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509845267158	Marionette	INFO	Enabled via --marionette
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1509845272252	Marionette	INFO	Listening on port 9672
+1509845272423	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509845272516	Marionette	DEBUG	Register listener.js for window 4294967297
+1509845272619	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509845272647	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509845272648	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509845272659	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:9596/"
+1509845273405	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:9596/"
+1509845275472	Marionette	INFO	New connections will no longer be accepted
+1509845276087	geckodriver	INFO	geckodriver 0.18.0
+1509845276114	geckodriver	INFO	Listening on 127.0.0.1:9723
+1509845276649	geckodriver::marionette	INFO	Starting browser d:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1509845277132	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509845278163	Marionette	INFO	Enabled via --marionette
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[Parent 9040] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8440] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8440] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1509845283227	Marionette	INFO	Listening on port 9727
+1509845283496	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509845283578	Marionette	DEBUG	Register listener.js for window 4294967297
+1509845283633	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509845283662	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509845283663	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509845283675	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:9596/"
+1509845284520	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:9596/"
+1509845286579	Marionette	INFO	New connections will no longer be accepted
+1509845287006	geckodriver	INFO	geckodriver 0.18.0
+1509845287035	geckodriver	INFO	Listening on 127.0.0.1:9774
+1509845287591	geckodriver::marionette	INFO	Starting browser d:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1509845288063	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1509845289247	Marionette	INFO	Enabled via --marionette
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1509845295215	Marionette	INFO	Listening on port 9778
+1509845295569	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509845295638	Marionette	DEBUG	Register listener.js for window 4294967297
+1509845295698	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509845295728	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509845295729	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509845295737	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:9596/"
+1509845296313	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:9596/"
+1509845298681	Marionette	INFO	New connections will no longer be accepted
+[Parent 12512] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
