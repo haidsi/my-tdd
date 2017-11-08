@@ -1,0 +1,13 @@
+[Unit]
+Description=Gunicorn server for SITENAME
+
+[Service]
+Restart=on-failure
+User=haidsi
+WorkingDirectory=/home/haidsi/sites/SITENAME/source
+ExecStart=/home/haidsi/sites/SITENAME/virtualenv/bin/gunicorn \
+    --bind unix:/tmp/SITENAME.socket \
+    superlists.wagi:application
+
+[Install]
+WantedBy=multi-user.target
