@@ -2572,3 +2572,91 @@ ildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/ch
 [GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
 [Parent 5200, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
 [Child 11004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513500854338	geckodriver	INFO	geckodriver 0.18.0
+1513500854459	geckodriver	INFO	Listening on 127.0.0.1:7854
+1513500855072	geckodriver::marionette	INFO	Starting browser d:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1513500861086	Marionette	INFO	Enabled via --marionette
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1513500870418	Marionette	INFO	Listening on port 7858
+1513500870729	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513500870863	Marionette	DEBUG	Register listener.js for window 4294967297
+1513500870985	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1513500871179	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513500871179	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513500871201	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:7853/"
+1513500871411	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:7853/"
+1513500874027	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281 < GeckoDriver.prototype.quit()@driver.js:3307 < despatch()@server.js:553 < execute()@server.js:527 < onPacket/<()@server.js:502 < onPacket()@server.js:501 < _onJSONObjectReady/<()@transport.js:501
+[Parent 9280, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513500875633	geckodriver	INFO	geckodriver 0.18.0
+1513500875738	geckodriver	INFO	Listening on 127.0.0.1:7922
+1513500876330	geckodriver::marionette	INFO	Starting browser d:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1513500880110	Marionette	INFO	Enabled via --marionette
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[Child 5560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513500890385	Marionette	INFO	Listening on port 7926
+1513500891244	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513500891396	Marionette	DEBUG	Register listener.js for window 4294967297
+1513500891679	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513500891709	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513500891709	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513500891724	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:7921/"
+1513500892013	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:7921/"
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1513500901753	geckodriver	INFO	geckodriver 0.18.0
+1513500901809	geckodriver	INFO	Listening on 127.0.0.1:8015
+1513500902416	geckodriver::marionette	INFO	Starting browser d:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1513500908059	Marionette	INFO	Enabled via --marionette
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[Child 1052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513500918087	Marionette	INFO	Listening on port 8019
+1513500918554	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513500919154	Marionette	DEBUG	Register listener.js for window 4294967297
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1513500920506	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513500920979	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513500920980	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513500921038	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8014/"
+1513500921829	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8014/"
+1513500926780	geckodriver	INFO	geckodriver 0.18.0
+1513500926894	geckodriver	INFO	Listening on 127.0.0.1:8104
+1513500927572	geckodriver::marionette	INFO	Starting browser d:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1513500932966	Marionette	INFO	Enabled via --marionette
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[Child 9140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1513500941760	Marionette	INFO	Listening on port 8108
+1513500942234	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513500942742	Marionette	DEBUG	Register listener.js for window 4294967297
+1513500943265	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513500943467	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513500943468	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513500943517	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8014/"
+1513500944107	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8014/"
+1513500946688	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281 < GeckoDriver.prototype.quit()@driver.js:3307 < despatch()@server.js:553 < execute()@server.js:527 < onPacket/<()@server.js:502 < onPacket()@server.js:501 < _onJSONObjectReady/<()@transport.js:501
+1513500947102	geckodriver	INFO	geckodriver 0.18.0
+1513500947130	geckodriver	INFO	Listening on 127.0.0.1:8166
+1513500947669	geckodriver::marionette	INFO	Starting browser d:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1513500952657	Marionette	INFO	Enabled via --marionette
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[Child 7704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513500963421	Marionette	INFO	Listening on port 8170
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1513500964029	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513500964225	Marionette	DEBUG	Register listener.js for window 4294967297
+1513500964371	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513500964419	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513500964420	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513500964431	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8014/"
+1513500964590	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8014/"
+1513500968202	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281 < GeckoDriver.prototype.quit()@driver.js:3307 < despatch()@server.js:553 < execute()@server.js:527 < onPacket/<()@server.js:502 < onPacket()@server.js:501 < _onJSONObjectReady/<()@transport.js:501
+[Parent 9620, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
