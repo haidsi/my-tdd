@@ -2400,3 +2400,175 @@ ildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/ch
 1513324149662	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
 1513324149700	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:4221/"
 1513324150163	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:4221/"
+1513326227137	geckodriver	INFO	geckodriver 0.18.0
+1513326227162	geckodriver	INFO	Listening on 127.0.0.1:4853
+1513326227925	geckodriver::marionette	INFO	Starting browser d:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1513326232185	Marionette	INFO	Enabled via --marionette
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: Could not get a DXGI adapter
+[Parent 9000, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: Could not get a DXGI adapter
+1513326242048	Marionette	INFO	Listening on port 4857
+1513326242674	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513326243227	Marionette	DEBUG	Register listener.js for window 4294967297
+[GFX1-]: Could not get a DXGI adapter
+1513326243436	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513326243630	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513326243631	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513326243647	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:4852/"
+1513326243777	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:4852/"
+1513326246404	geckodriver	INFO	geckodriver 0.18.0
+1513326246475	geckodriver	INFO	Listening on 127.0.0.1:4916
+1513326247159	geckodriver::marionette	INFO	Starting browser d:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1513326250617	Marionette	INFO	Enabled via --marionette
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[Parent 8724, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1513326259498	Marionette	INFO	Listening on port 4920
+1513326260022	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513326260211	Marionette	DEBUG	Register listener.js for window 4294967297
+1513326260358	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513326260766	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513326260768	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513326260812	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:4915/"
+1513326261235	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:4915/"
+1513326275862	geckodriver	INFO	geckodriver 0.18.0
+1513326275890	geckodriver	INFO	Listening on 127.0.0.1:5002
+1513326276463	geckodriver::marionette	INFO	Starting browser d:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1513326281354	Marionette	INFO	Enabled via --marionette
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[Child 2004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1513326288807	Marionette	INFO	Listening on port 5006
+1513326289165	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513326289312	Marionette	DEBUG	Register listener.js for window 4294967297
+1513326289388	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513326289436	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513326289437	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513326289448	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:5001/"
+1513326289614	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:5001/"
+1513326304122	geckodriver	INFO	geckodriver 0.18.0
+1513326304148	geckodriver	INFO	Listening on 127.0.0.1:5123
+1513326304699	geckodriver::marionette	INFO	Starting browser d:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1513326309563	Marionette	INFO	Enabled via --marionette
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[Child 5860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1513326316775	Marionette	INFO	Listening on port 5128
+1513326316838	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513326317011	Marionette	DEBUG	Register listener.js for window 4294967297
+1513326317358	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513326317421	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513326317422	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513326317439	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:5001/"
+1513326317598	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:5001/"
+1513326319741	geckodriver	INFO	geckodriver 0.18.0
+1513326319796	geckodriver	INFO	Listening on 127.0.0.1:5175
+1513326320311	geckodriver::marionette	INFO	Starting browser d:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1513326325184	Marionette	INFO	Enabled via --marionette
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[Parent 4864, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1513326332959	Marionette	INFO	Listening on port 5179
+1513326333072	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513326333202	Marionette	DEBUG	Register listener.js for window 4294967297
+1513326333549	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513326333665	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513326333666	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513326333679	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:5001/"
+1513326333790	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:5001/"
+[Parent 4864, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513494213090	geckodriver	INFO	geckodriver 0.18.0
+1513494213129	geckodriver	INFO	Listening on 127.0.0.1:5394
+1513494213844	geckodriver::marionette	INFO	Starting browser d:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1513494219304	Marionette	INFO	Enabled via --marionette
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[Child 5540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1513494235110	Marionette	INFO	Listening on port 5398
+1513494235164	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513494235319	Marionette	DEBUG	Register listener.js for window 4294967297
+1513494236232	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513494237122	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513494237123	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513494237148	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:5393/"
+1513494237545	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:5393/"
+[Child 6716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513494241610	geckodriver	INFO	geckodriver 0.18.0
+1513494241635	geckodriver	INFO	Listening on 127.0.0.1:5472
+1513494242167	geckodriver::marionette	INFO	Starting browser d:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1513494244304	Marionette	INFO	Enabled via --marionette
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[Parent 7604, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513494249860	Marionette	INFO	Listening on port 5476
+1513494250177	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513494250333	Marionette	DEBUG	Register listener.js for window 4294967297
+1513494250435	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513494250480	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513494250480	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513494250492	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:5471/"
+1513494250614	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:5471/"
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1513494265341	geckodriver	INFO	geckodriver 0.18.0
+1513494265367	geckodriver	INFO	Listening on 127.0.0.1:5583
+1513494265963	geckodriver::marionette	INFO	Starting browser d:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1513494270601	Marionette	INFO	Enabled via --marionette
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[Parent 3292, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1513494280002	Marionette	INFO	Listening on port 5588
+1513494280079	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513494280207	Marionette	DEBUG	Register listener.js for window 4294967297
+1513494280551	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513494280597	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513494280598	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513494280616	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:5582/"
+1513494280760	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:5582/"
+1513494289938	geckodriver	INFO	geckodriver 0.18.0
+1513494289972	geckodriver	INFO	Listening on 127.0.0.1:5722
+1513494290492	geckodriver::marionette	INFO	Starting browser d:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1513494294021	Marionette	INFO	Enabled via --marionette
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[Parent 10616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513494300324	Marionette	INFO	Listening on port 5726
+1513494300739	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513494300885	Marionette	DEBUG	Register listener.js for window 4294967297
+1513494300949	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513494300983	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513494300984	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513494300997	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:5582/"
+1513494301124	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:5582/"
+1513494303677	geckodriver	INFO	geckodriver 0.18.0
+1513494303698	geckodriver	INFO	Listening on 127.0.0.1:5791
+1513494304252	geckodriver::marionette	INFO	Starting browser d:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1513494306991	Marionette	INFO	Enabled via --marionette
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[Parent 5200, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513494313980	Marionette	INFO	Listening on port 5797
+1513494314438	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513494314882	Marionette	DEBUG	Register listener.js for window 4294967297
+1513494315416	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513494315508	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513494315509	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513494315521	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:5582/"
+1513494315620	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:5582/"
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[Parent 5200, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
