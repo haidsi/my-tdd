@@ -6,6 +6,7 @@ from django.template.loader import render_to_string
 
 from lists.views import home_page
 from lists.models import Item, List
+from lists.forms import ItemForm
 
 class HomePageTest(TestCase):
 
@@ -13,34 +14,9 @@ class HomePageTest(TestCase):
         response = self.client.get('/')
         self.assertTemplateUsed(response, 'home.html')
 
-    ##def test_home_page_returns_correct_html(self):
-        #request = HttpRequest()
-        #response = home_page(request)
-        #html = response.content.decode('utf8')
-        #expected_html = render_to_string('html.html')
-        #self.assertEqual(html, expected_html)
-
-        ##response = self.client.get('/')
-
-        ##html =response.content.decode('utf8')
-        ##self.assertTrue(html.startswith('<html>'))
-        ##self.assertIn('<title>To-Do lists</title>',html)
-        ##self.assertTrue(html.strip().endswith('</html>'))
-
-        ##self.assertTemplateUsed(response, 'home.html')
-
-    ##def test_only_saves_items_when_necessary(self):
-        ##self.client.get('/')
-        ##self.assertEqual(Item.objects.count(), 0)
-
-    ##def test_displays_all_list_items(self):
-        ##Item.objects.create(text='itemey 1')
-        ##Item.objects.create(text='itemey 2')
-
-        ##response =self.client.get('/')
-
-        ##self.assertIn('itemey 1', response.content.decode())
-        ##self.assertIn('itemey 2', response.content.decode())
+    def test_home_page_uses_item_form(self):
+        response = self.client.get('/')
+        self.assertIsInstance(response.context['form'], ItemForm)
 
 class ListViewTest(TestCase):
 
